@@ -485,14 +485,15 @@ header p {
 
 .chapters-list .chapter-list-icon {
     background-image: url("../assets/chapter-list-icon-bg.svg");
+    /* background-color: #3c763d; */
     background-repeat: no-repeat;
-    background-position: top left;
+    background-position: center;
     height: 80px;
     width: 62px;
     text-align: center;
     position: relative;
     display: table;
-    padding-top: 20px;
+    /* padding-top: 20px; */
     margin-right: 20px;
 }
 
